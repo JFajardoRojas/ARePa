@@ -2,14 +2,6 @@
 
 import numpy as np
 
-elements = np.asarray((['O','O','O','Si']))
-types = np.asarray((['O1','O2', 'O3', 'T1']))
-ele_coord=np.asarray(([0, 0.2122, 0.5],[0.1103, 0.1103, 0.3384],[0, 0.2967, 0.2967],[0, 0.1823, 0.3684]))
-
-na = 4 #input('Number of times cell will repeat in "a" direction:  ')
-nb = 4 #input('Number of times cell will repeat in "b" direction:  ')
-nc = 4 #input('Number of times cell will repeat in "c" direction:  ')
-
 def replicate (na, nb, nc, elements, types, ele_coord):
 
     exp_elements = elements
