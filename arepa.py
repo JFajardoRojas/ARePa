@@ -1,4 +1,4 @@
-#AREPA - Automatic RElication of PAtterns
+#AREPA - Automatic RElication of P-1 crystals
 
 import numpy as np
 
