@@ -1,0 +1,89 @@
+data_LTA
+#**************************************************************************
+#
+# CIF taken from the IZA-SC Database of Zeolite Structures
+# Ch. Baerlocher and L.B. McCusker
+# Database of Zeolite Structures: http://www.iza-structure.org/databases/ 
+#
+# The atom coordinates and the cell parameters were optimized with DLS76
+# assuming a pure SiO2 composition.
+#
+#**************************************************************************
+
+_cell_length_a                  23.8380
+_cell_length_b                  11.9190
+_cell_length_c                  11.9190
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma               90.0000
+
+_symmetry_space_group_name_H-M     'P m 3 m'
+_symmetry_Int_Tables_number         221
+_symmetry_cell_setting             cubic
+
+loop_
+_symmetry_equiv_pos_as_xyz
+'+x,+y,+z'
+'+z,+x,+y'
+'+y,+z,+x'
+'+x,+y,-z'
+'+z,+x,-y'
+'+y,+z,-x'
+'-x,+y,+z'
+'-z,+x,+y'
+'-y,+z,+x'
+'-x,+y,-z'
+'-z,+x,-y'
+'-y,+z,-x'
+'+y,+x,+z'
+'+x,+z,+y'
+'+z,+y,+x'
+'+y,+x,-z'
+'+x,+z,-y'
+'+z,+y,-x'
+'+y,-x,+z'
+'+x,-z,+y'
+'+z,-y,+x'
+'+y,-x,-z'
+'+x,-z,-y'
+'+z,-y,-x'
+'-x,-y,-z'
+'-z,-x,-y'
+'-y,-z,-x'
+'-x,-y,+z'
+'-z,-x,+y'
+'-y,-z,+x'
+'+x,-y,-z'
+'+z,-x,-y'
+'+y,-z,-x'
+'+x,-y,+z'
+'+z,-x,+y'
+'+y,-z,+x'
+'-y,-x,-z'
+'-x,-z,-y'
+'-z,-y,-x'
+'-y,-x,+z'
+'-x,-z,+y'
+'-z,-y,+x'
+'-y,+x,-z'
+'-x,+z,-y'
+'-z,+y,-x'
+'-y,+x,+z'
+'-x,+z,+y'
+'-z,+y,+x'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1  O   0.  5.0584236   11.919
+O1  O   2.6293314  1.3146657  4.0333896
+O1  O   0.         3.5363673  3.5363673
+T1  Si  0.         2.1728337  4.3909596
+O1  O   0.         5.0584236 11.919    
+O1  O   7.8879942  2.6293314  8.0667792
+O1  O   0.         3.5363673  3.5363673
+T1  Si   0.         2.1728337  4.3909596
+
